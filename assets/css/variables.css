@@ -1,0 +1,8 @@
+:root {
+    --primary: #54FFC1;
+    --secondary: #272727;
+    --tertiary: #B378FF;
+
+    --font-robotoMono: 'Roboto Mono', monospace;
+    --font-roboto: 'Roboto', sans-serif;
+}
