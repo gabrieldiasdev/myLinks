@@ -1,3 +1,12 @@
+window.dataLayer = window.dataLayer || [];
+
+function gtag() {
+    dataLayer.push(arguments);
+};
+
+gtag('js', new Date());
+gtag('config', 'G-VFHNYPEG0S');
+
 const song = document.querySelector('#back_song');
 const play_text = document.querySelector('#play_text');
 const play_button = document.querySelector('#play_button')
